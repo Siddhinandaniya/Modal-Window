@@ -1,9 +1,9 @@
 # Modal-Window
 ### Links
 
-- Live Site URL: [https://siddhinandaniya.github.io/Modal-Window/](https://siddhinandaniya.github.io/Modal-Window/)
+- Live Site URL: [https://Siddhie.github.io/Modal-Window/](https://siddhinandaniya.github.io/Modal-Window/)
 
 ## Author
 
-- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhi-nandaniya/)
-- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhinandaniya)
+- Linkedin - [Siddhi Nandaniya](https://www.linkedin.com/in/siddhie/)
+- Frontend Mentor - [@siddhinandaniya](https://www.frontendmentor.io/profile/Siddhie)
