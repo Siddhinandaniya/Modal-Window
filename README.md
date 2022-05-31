@@ -1,7 +1,7 @@
 # Modal-Window
 ### Links
 
-- Live Site URL: [https://Siddhie.github.io/Modal-Window/](https://siddhinandaniya.github.io/Modal-Window/)
+- Live Site URL: https://Siddhie.github.io/Modal-Window/
 
 ## Author
 
